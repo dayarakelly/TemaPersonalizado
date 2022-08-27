@@ -1,0 +1,82 @@
+*{
+	padding:0px;
+	margin:0px;
+}
+
+/*h1*/
+.booH1{
+	color:#DC9BDC;
+}
+/*temas*/
+.booTemas{
+	background:linear-gradient(45deg, #C582C5 , #F5B6F5 55%,#C582C5 70%);
+	border-bottom:solid 2px #D292D2;
+}
+/*item*/
+.booItem{	
+	background:#C582C5; 	
+}
+/*.item_um*/
+.boo_item_um{
+	 background-image:url('../imagens/sullivanPNG.png');
+	 background-repeat:no-repeat;
+	 background-size:cover;
+	 background-position:center center;	 
+}
+/*.item_dois*/
+.boo_item_dois{
+	 background-image:url('../imagens/mikePNG.png');
+	 background-repeat:no-repeat;
+	 background-size:cover;
+	 background-position:center center;	 
+}
+/*.item_tres*/
+.boo_item_tres{
+	 background-image:url('../imagens/booPNG.png');
+	 background-repeat:no-repeat;
+	 background-size:cover;
+	 background-position:center center;	 
+}
+/*.container_um*/
+.boo_container_um{
+	box-shadow: inset 1px -1px 5px #F5B6F5;	
+}
+/*.mais_personagens*/
+.boo_mais_personagens{
+	color:#AF71AF;
+}
+/* .container_quatro img{ */
+/*mike_imagem_container_quatro*/
+.boo_imagem_container_quatro {
+	border:solid 3px #E6878E;
+	width:100%;
+	margin:auto;		
+	box-shadow:1px 1px 10px #FB989F ;
+}
+/* figcaption */
+/*nome_personagem*/
+.boo_nome_persoangem{	
+ color:#AF71AF;
+}
+/*.container_seis*/
+.boo_container_seis{
+	background-image: linear-gradient(to bottom,#A6FF79,#2DB91E );
+}
+/*.seta_left, .seta_right*/
+.seta_left_boo, .seta_right_boo{
+	background:linear-gradient(to left, transparent 0%, #FB989F 180%);	
+}
+/*.seta_right*/
+.seta_right_boo{
+	left:auto;
+	right:0;
+	background:linear-gradient(to right, transparent 0%, #FB989F 180%);	
+}
+/*.galeriaFotos*/
+.boo_galeriaFotos{
+	color:#AF71AF;
+}
+/*footer*/
+.boo_footer{
+	background:linear-gradient(45deg, #F5B6F5, #C582C5 ,#F5B6F5 );
+}

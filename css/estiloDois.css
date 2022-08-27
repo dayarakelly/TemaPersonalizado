@@ -1,0 +1,82 @@
+*{
+	padding:0px;
+	margin:0px;
+}
+/*h1*/
+.mikeH1{
+	color:#50fa3f;
+}
+/*temas*/
+.mikeTemas{
+	background:linear-gradient(45deg,#50fa3f, #C2EC5E ,#50fa3f );
+	border-bottom:solid 2px #41e430;
+}
+/*item*/
+.mikeItem{	
+	background:#4CE63C; 	
+}
+/*.item_um*/
+.mike_item_um{
+	 background-image:url('../imagens/sullivanPNG.png');
+	 background-repeat:no-repeat;
+	 background-size:cover;
+	 background-position:center center;	 
+}
+/*.item_dois*/
+.mike_item_dois{
+	 background-image:url('../imagens/mikePNG.png');
+	 background-repeat:no-repeat;
+	 background-size:cover;
+	 background-position:center center;	 
+}
+/*.item_tres*/
+.mike_item_tres{
+	 background-image:url('../imagens/booPNG.png');
+	 background-repeat:no-repeat;
+	 background-size:cover;
+	 background-position:center center;	 
+}
+
+/*.container_um*/
+.mike_container_um{
+	box-shadow: inset 1px -1px 5px #41e430;
+	
+}
+/*.mais_personagens*/
+.mike_mais_personagens{
+	color:#4CE63C;
+}
+/*.container_quatro img*/
+.mike_imagem_container_quatro{
+	border:solid 3px #A6FF79;
+	width:100%;
+	margin:auto;		
+	box-shadow:1px 1px 10px #A6FF79;
+}
+/*figcaption*/
+figcaption{	
+ color:#51FF3F;
+}
+
+/*.container_seis*/
+.mike_container_seis{
+	background-image: linear-gradient(to bottom,#A6FF79,#2DB91E );
+}
+/*.seta_left, .seta_right*/
+.mike_seta_left, .mike_seta_right{
+	background:linear-gradient(to left, transparent 0%, #51FF3F 180%);	
+}
+/*.seta_right*/
+.mike_seta_right{
+	left:auto;
+	right:0;
+	background:linear-gradient(to right, transparent 0%, #51FF3F 180%);
+}
+/*.galeriaFotos*/
+.mike_galeriaFotos{
+	color:#4CE63C;
+}
+/*footer*/
+.mike_footer{
+	background:linear-gradient(45deg,#50fa3f, #C2EC5E ,#50fa3f );
+}
